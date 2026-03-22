@@ -12,4 +12,4 @@ Here's an example of using the ICSP pads designed for these pogo adapters:
 
 ![pads](media/pads.jpg "pads") ![board](media/board.jpg)
 
-The important part of making these adapters work is to carefully solder the pogo pins in between the long PCB traces on the board. If done correctly, they should sit right in between the traces and be fairly stable while you solder.  I like to have the 2 pins on either end slightly longer than the middle pins, but it isn't really necessary.
+To assemble the adapter, carefully solder the pogo pins in between the long PCB traces on the board. If done correctly, they should sit right in between the traces and be fairly stable while you solder.  I made the 2 pins on either end slightly longer than the middle pins, but it isn't really necessary.
