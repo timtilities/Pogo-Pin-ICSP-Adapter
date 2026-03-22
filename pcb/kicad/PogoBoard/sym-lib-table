@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "ICSP_Inline_Pogo-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/ICSP_Inline_Pogo-eagle-import.kicad_sym")(options "")(descr ""))
+)

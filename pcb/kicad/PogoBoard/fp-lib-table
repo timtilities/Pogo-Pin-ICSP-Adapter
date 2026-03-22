@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ICSP_Inline_Pogo")(type "KiCad")(uri "$(KIPRJMOD)/ICSP_Inline_Pogo.pretty")(options "")(descr ""))
+)
